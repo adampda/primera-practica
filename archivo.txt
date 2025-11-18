@@ -1,0 +1,2 @@
+Es que la madre de José me está volviendo loco.
+Este es mi primer archivo con Git.
